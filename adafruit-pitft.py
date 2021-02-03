@@ -4,6 +4,7 @@ Adafruit PiTFT Installer Script
 """
 
 import time
+import os
 try:
     import click
 except ImportError:
